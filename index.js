@@ -6,7 +6,11 @@
 // 2. Assignment x= 100;
 
 
-let x; 
-//let y;  different name is fine, if the same name, it wont work
+// let x; 
 
-x = 100;
+// x = 100;
+//let y;  different name is fine when declaring a variable, if the same name, it wont work
+
+
+let x = 100;  // this is both declaration and assignment. 
+
