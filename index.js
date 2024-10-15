@@ -6,3 +6,7 @@
 // 2. Assignment x= 100;
 
 
+let x; 
+//let y;  different name is fine, if the same name, it wont work
+
+x = 100;
