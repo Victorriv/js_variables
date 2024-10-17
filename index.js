@@ -20,4 +20,5 @@ let price = 10.99;
 let gpa = 2.1;
 
 
-console.log(gpa)
+console.log(gpa);
+
