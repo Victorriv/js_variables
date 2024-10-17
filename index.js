@@ -15,10 +15,12 @@
 //let x = 100;  // this is both declaration and assignment. 
 
 
+
+
 let age = 25;
 let price = 10.99;
 let gpa = 2.1;
 
 
-console.log(gpa);
-
+console.log(`you are ${age} years old`); // to display the variable you use this dollar sign with curly braces ${} . 
+console.log(`the price is $${price}`)
