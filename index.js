@@ -12,5 +12,12 @@
 //let y;  different name is fine when declaring a variable, if the same name, it wont work
 
 
-let x = 100;  // this is both declaration and assignment. 
+//let x = 100;  // this is both declaration and assignment. 
 
+
+let age = 25;
+let price = 10.99;
+let gpa = 2.1;
+
+
+console.log(gpa)
