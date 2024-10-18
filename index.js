@@ -22,5 +22,7 @@ let price = 10.99;
 let gpa = 2.1;
 
 
-console.log(`you are ${age} years old`); // to display the variable you use this dollar sign with curly braces ${} . 
+console.log(`you are ${age} years old`); // to display the variable you use this dollar sign with curly braces ${}
 console.log(`the price is $${price}`)
+
+console.log(typeof age); // this is to see the data type of varaiable.
