@@ -17,12 +17,29 @@
 
 
 
-let age = 25;
+/*let age = 25;
 let price = 10.99;
 let gpa = 2.1;
+*/
 
 
-console.log(`you are ${age} years old`); // to display the variable you use this dollar sign with curly braces ${}
-console.log(`the price is $${price}`)
 
-console.log(typeof age); // this is to see the data type of varaiable.
+//console.log(`you are ${age} years old`); // to display the variable you use this dollar sign with curly braces ${}
+//console.log(`the price is $${price}`)
+
+//console.log(typeof age); // this is to see the data type of varaiable.
+
+
+
+// this will be for STRINGSSSSS VV !!!!!!
+
+// - string is a seires  of characters. 
+
+let firstName= "Victor";
+
+console.log(typeof firstName);
+console.log(`Your name is ${firstName}`);
+
+
+
+
