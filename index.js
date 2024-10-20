@@ -62,4 +62,6 @@ let age = 30;
 let student = false;
 
 
-document.getElementById("p1").textContent = fullName; // to change text content of html elements
+document.getElementById("p1").textContent = `Your name is ${fullName}`; // to change text content of html elements
+document.getElementById("p2").textContent = `Your are ${age} years old`; 
+document.getElementById("p3").textContent = `Enrolled ${student}`;
