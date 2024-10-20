@@ -53,7 +53,7 @@ console.log(`Your favorite food is ${favFood}`);
 
 let online = true;
 
-console.log(typeof online);
+console.log(`Victor is online ${online}`);
 
 
 
