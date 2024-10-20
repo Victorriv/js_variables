@@ -48,7 +48,7 @@ console.log(`Your favorite food is ${favFood}`);
 
 
 
-// BOOLEANS __________________________________________________________________-
+/* BOOLEANS __________________________________________________________________-
 
 
 // let online = true;
@@ -65,3 +65,22 @@ let student = false;
 document.getElementById("p1").textContent = `Your name is ${fullName}`; // to change text content of html elements
 document.getElementById("p2").textContent = `Your are ${age} years old`; 
 document.getElementById("p3").textContent = `Enrolled ${student}`;
+
+*/
+
+
+                    /* ARITHMETIC PRACTICE*/
+
+// ARITHMETIC OPERATORS = operands (values, varaibles, etc.)
+//      operators (+,-,/)
+// ex 11 = x + 5
+
+
+
+let students = 30;
+
+
+
+students = students + 1;
+
+console.log(students);
