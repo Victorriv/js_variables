@@ -51,11 +51,15 @@ console.log(`Your favorite food is ${favFood}`);
 // BOOLEANS __________________________________________________________________-
 
 
-let online = true;
+// let online = true;
+// let isStudent = true;
 
-console.log(`Victor is online ${online}`);
+// console.log(`Victor is online ${online}`); // booleans are true or false
+//console.log(`Enrolled: ${isStudent} `) // booleans are usually used for if statements
+
+let fullName = "Victor";
+let age = 30;
+let student = false;
 
 
-
-
-
+document.getElementById("p1").textContent = fullName; // to change text content of html elements
