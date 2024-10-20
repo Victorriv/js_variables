@@ -35,13 +35,25 @@ let gpa = 2.1;
 
 // - string is a seires  of characters. 
 
-let firstName= "Victor";
+
+/*let firstName= "Victor";
 let favFood = "Burritos"
 
 console.log(typeof firstName);
 console.log(`Your name is ${firstName}`);
 console.log(`Your favorite food is ${favFood}`);
 
+*/
+
+
+
+
+// BOOLEANS __________________________________________________________________-
+
+
+let online = true;
+
+console.log(typeof online);
 
 
 
