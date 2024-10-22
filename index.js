@@ -99,5 +99,17 @@ let students = 30;
 
 
  // this is how you increase variable by one. 
- students ++;
-console.log(students);
+ // students ++;
+ //students --;
+
+
+ /* Operator Precedence
+ 1. parenthesis()
+ 2. exponents
+ 3. multiplication & division and modulo
+4. addition & subtraction. 
+*/
+
+let result = 1+2*3+4**2;
+
+console.log(result);
