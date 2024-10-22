@@ -77,7 +77,7 @@ document.getElementById("p3").textContent = `Enrolled ${student}`;
 
 
 
-let students = 30;
+// let students = 30;
 
 
 
@@ -112,5 +112,21 @@ let students = 30;
 
 // let result = 1+2*3+4**2; this will come out to 16
 
-let result = 12 % 5 + 8/2;
-console.log(result);
+// let result = 12 % 5 + 8/2;
+// console.log(result);
+
+
+/* 
+
+
+USER INPUT PRACTICE
+1. EASY WAY
+2. PRO WAY
+
+
+
+
+*/
+
+let username;
+ username = window.prompt("whats your user name? ")
