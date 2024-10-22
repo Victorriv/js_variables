@@ -110,6 +110,7 @@ let students = 30;
 4. addition & subtraction. 
 */
 
-let result = 1+2*3+4**2;
+// let result = 1+2*3+4**2; this will come out to 16
 
+let result = 12 % 5 + 8/2;
 console.log(result);
