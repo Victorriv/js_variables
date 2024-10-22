@@ -81,9 +81,23 @@ let students = 30;
 
 
 
-// students = students + 1;
+// students = students + 1; uncomment one at a time to practice it. 
 // students = students -1;
 // students = students * 2;
-students = students / 2;
+// students = students / 2;
+ // students = students ** 2;
 
+ // students = students % 3; this will divide out the number and then give you the remainder. modulos operator
+
+
+    // AUGMENTED ASSIGNMENT OPERATORS
+ // - this is a shorter way to use arithmetic. 
+
+    // students += 1; output 31
+    //students *=2; output  60
+ // students /=2;
+
+
+ // this is how you increase variable by one. 
+ students ++;
 console.log(students);
