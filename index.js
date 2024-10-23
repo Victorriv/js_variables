@@ -120,8 +120,8 @@ document.getElementById("p3").textContent = `Enrolled ${student}`;
 
 
 USER INPUT PRACTICE
-1. EASY WAY
-2. PRO WAY
+1. EASY WAY- window prompt
+2. PRO WAY - html textbox
 
 
 
