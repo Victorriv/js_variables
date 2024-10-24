@@ -136,5 +136,5 @@ let username;
 
 document.getElementById("mySubmit").onclick = function(){ // here we right everything we gonna do after clicking the button . Everything within the curly braces is what we gonna do when we click the button. 
    username = document.getElementById("myText").value; // reassign username, then set it equal to the text from text box, we get myText adn we need the value of it. 
-
+   document.getElementById("myH1").textContent = `Hello ${username}`
 }
