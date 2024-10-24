@@ -125,8 +125,9 @@ USER INPUT PRACTICE
 
 
 
+let username;
+ username = window.prompt("whats your user name? ")
+this is the easy way. 
 
 */
 
-let username;
- username = window.prompt("whats your user name? ")
