@@ -131,3 +131,6 @@ this is the easy way.
 
 */
 
+document.getElementById("mySubmit").onclick = function(){
+   
+}
